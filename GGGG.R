@@ -1,0 +1,4 @@
+EEE
+ffff
+ddd
+EEE
